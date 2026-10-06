@@ -47,6 +47,9 @@
 | [llm-eval-harness](https://github.com/charan-lagumsani/llm-eval-harness) | Offline LLM evaluation toolkit — faithfulness, context recall, toxicity screen, fairness audit |
 | [mlops-inference-api](https://github.com/charan-lagumsani/mlops-inference-api) | Production-style inference service — trained model artifact, FastAPI, Docker, load testing |
 | [vector-search-playground](https://github.com/charan-lagumsani/vector-search-playground) | FAISS vs ChromaDB semantic search — benchmark harness + Streamlit UI |
+| [lora-finetune-lab](https://github.com/charan-lagumsani/lora-finetune-lab) | Config-driven LoRA/QLoRA fine-tuning toolkit — transformers + PEFT, train/val loss tracking, before/after generation eval |
+| [realtime-fraud-scoring](https://github.com/charan-lagumsani/realtime-fraud-scoring) | Streaming fraud detection — online velocity features, gradient-boosting classifier, FastAPI scoring with p99 latency tracking |
+| [two-tower-recsys](https://github.com/charan-lagumsani/two-tower-recsys) | Two-tower retrieval model in PyTorch — in-batch negatives, recall@k eval, FAISS ANN serving |
 
 ### Certifications
 
